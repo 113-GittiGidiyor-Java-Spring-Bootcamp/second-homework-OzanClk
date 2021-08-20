@@ -1,10 +1,10 @@
-package dev.patika.devpatikahomework02;
+package dev.patika.homework02;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SecondHomeworkOzanClkApplicationTests {
+class SecondHomeworkTests {
 
     @Test
     void contextLoads() {
